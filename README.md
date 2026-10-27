@@ -1,6 +1,7 @@
 # Timetable Manager
 
-#### Video Demo: [Youtube link](https://youtu.be/4DpB-jEmkqc)
+#### Video Demo: [Youtube link](https://youtu.be/4sP6v-lrly8)
+#### Certification: [Link](https://certificates.cs50.io/294a9e26-2250-43b4-8170-3fe4806dd93a.pdf?size=letter)
 
 ## Description
 
